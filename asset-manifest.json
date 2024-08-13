@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notenest/static/css/main.fba2ec49.css",
+    "main.js": "/notenest/static/js/main.01ec7f1f.js",
+    "index.html": "/notenest/index.html",
+    "main.fba2ec49.css.map": "/notenest/static/css/main.fba2ec49.css.map",
+    "main.01ec7f1f.js.map": "/notenest/static/js/main.01ec7f1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fba2ec49.css",
+    "static/js/main.01ec7f1f.js"
+  ]
+}
